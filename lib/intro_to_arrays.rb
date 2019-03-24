@@ -3,7 +3,7 @@ return  []
 end
 
 def array_with_two_elements
-  return Array.new(2)
+  return array.new(2)
 end
 
 def first_element(array)
